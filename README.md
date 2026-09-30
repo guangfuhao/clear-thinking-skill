@@ -36,7 +36,7 @@ cp -R clear-thinking ~/.codex/skills/
 也可以直接克隆：
 
 ```bash
-git clone https://github.com/guangfuhao/clear-thinking.git ~/.codex/skills/clear-thinking
+git clone https://github.com/guangfuhao/clear-thinking-skill.git ~/.codex/skills/clear-thinking
 ```
 
 ### 使用
@@ -99,7 +99,7 @@ cp -R clear-thinking ~/.codex/skills/
 Or clone it directly:
 
 ```bash
-git clone https://github.com/guangfuhao/clear-thinking.git ~/.codex/skills/clear-thinking
+git clone https://github.com/guangfuhao/clear-thinking-skill.git ~/.codex/skills/clear-thinking
 ```
 
 ### Usage
