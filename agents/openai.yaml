@@ -1,0 +1,6 @@
+interface:
+  display_name: "清晰思考"
+  short_description: "用清晰思考框架识别偏差、比较方案并制定低风险行动"
+  default_prompt: "使用 $clear-thinking 帮我把这个决定拆成问题、选项、风险、行动和复盘规则。"
+policy:
+  allow_implicit_invocation: true
